@@ -1,5 +1,5 @@
-### Hola 👋, soy Álvaro
-## asasd
+<h1 align="center">Hola 👋, soy Álvaro Cerda Silva</h1>
+<h3 align="center">Ingeniero Informático de Concepción, Chile</h3>
 
 <!--
 **ZrkllT/ZrkllT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
