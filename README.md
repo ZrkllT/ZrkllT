@@ -1,13 +1,21 @@
 <h1 align="center">Hola 👋, soy Álvaro Cerda Silva</h1>
 <h3 align="center">Ingeniero Informático de Concepción, Chile</h3>
 
-<h4 align="center">Tratando de crear el habito de versionar todo lo que aprendar :P</h4>
+<h5 align="center">Tratando de crear el habito de versionar todo lo que aprenda :P</h5>
 
+<p align="left">
 * Actualmente en Bootcamp aprendiendo <img src="https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png" height="24"/>
-  · Algunas prácticas que he desarrollado
-    ·
+  * Algunas prácticas que he desarrollado
+  Personajes de Star Wars (dimensiones de la vida real)
+  <a href="https://github.com/ZrkllT/BCJS-Consolidacion04-StarWars">Repo</a>
+  <a href="https://zrkllt.github.io/BCJS-Consolidacion04-StarWars">Página de Ejemplo</a>
+  
+  Control de Gastos (Presupuesto)
+  <a href="https://github.com/ZrkllT/BCJS-Consolidacion03-PresupuestoAPP">Repo</a>
+  <a href="https://zrkllt.github.io/BCJS-Consolidacion03-PresupuestoAPP">Página de Ejemplo</a>
+</p>
 
-<h3 align="left">Lenguajes and Herramientas</h3>
+<h4 align="left">Lenguajes y Herramientas</h4>
 <p align="left">
   <img alt="c" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img alt="csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
