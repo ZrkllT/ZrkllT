@@ -3,7 +3,7 @@
 
 <h4 align="center">Tratando de crear el habito de versionar todo lo que aprendar :P</h4>
 
-* Actualmente aprendiendo <img src="https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png" height="24"/><img
+* Actualmente aprendiendo src="https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png" height="24"
     · Algunas prácticas que he desarrollado
     · 
 <!--
