@@ -1,6 +1,11 @@
 <h1 align="center">Hola 👋, soy Álvaro Cerda Silva</h1>
 <h3 align="center">Ingeniero Informático de Concepción, Chile</h3>
 
+<h4 align="center">Tratando de crear el habito de versionar todo lo que aprendar :P</h4>
+
+* Actualmente aprendiendo <img src="https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png" height="24"/><img
+    · Algunas prácticas que he desarrollado
+    · 
 <!--
 **ZrkllT/ZrkllT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
