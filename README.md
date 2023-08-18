@@ -6,7 +6,9 @@
 <p align="left">
 * Actualmente en Bootcamp aprendiendo <img src="https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png" height="24"/>
 </p>
+<p align="left">
 * Algunas prácticas que he desarrollado
+</p>
 <p align="left">
   Personajes de Star Wars (dimensiones de la vida real)
   <a href="https://github.com/ZrkllT/BCJS-Consolidacion04-StarWars">Repo</a>
