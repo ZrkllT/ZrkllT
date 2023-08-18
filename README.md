@@ -3,8 +3,9 @@
 
 <h4 align="center">Tratando de crear el habito de versionar todo lo que aprendar :P</h4>
 
-* Actualmente aprendiendo src="https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png" height="24"
-    · Algunas prácticas que he desarrollado
+* Actualmente aprendiendo <img src="https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png" height="24"/><img 
+  
+  · Algunas prácticas que he desarrollado
     · 
 <!--
 **ZrkllT/ZrkllT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
