@@ -6,13 +6,16 @@
 <p align="left">
 * Actualmente en Bootcamp aprendiendo <img src="https://user-images.githubusercontent.com/73254069/235308806-c52a097d-6fd6-4e95-97a0-89ef4099d8c0.png" height="24"/>
   * Algunas prácticas que he desarrollado
+</p>
+<p align="left">
   Personajes de Star Wars (dimensiones de la vida real)
   <a href="https://github.com/ZrkllT/BCJS-Consolidacion04-StarWars">Repo</a>
   <a href="https://zrkllt.github.io/BCJS-Consolidacion04-StarWars">Página de Ejemplo</a>
-  
-  Control de Gastos (Presupuesto)
-  <a href="https://github.com/ZrkllT/BCJS-Consolidacion03-PresupuestoAPP">Repo</a>
-  <a href="https://zrkllt.github.io/BCJS-Consolidacion03-PresupuestoAPP">Página de Ejemplo</a>
+</p>
+<p align="left">
+ Control de Gastos (Presupuesto)
+ <a href="https://github.com/ZrkllT/BCJS-Consolidacion03-PresupuestoAPP">Repo</a>
+ <a href="https://zrkllt.github.io/BCJS-Consolidacion03-PresupuestoAPP">Página de Ejemplo</a>
 </p>
 
 <h4 align="left">Lenguajes y Herramientas</h4>
